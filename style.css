@@ -37,19 +37,19 @@ main {
 }
 
 /*Git Nav*/
-.git-nav {
+.port-nav {
     position: absolute;
     left: 10px;
     top: 20px;
     padding: 5px;
 }
 
-.git-nav a {
+.port-nav a {
     text-decoration: none;
     color: rgb(234, 234, 236)
 }
 
-.git-nav a:hover {
+.port-nav a:hover {
     color: #7f21ab;
 }
 
