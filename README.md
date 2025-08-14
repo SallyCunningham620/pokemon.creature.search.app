@@ -1,1 +1,1 @@
-# pokemon.creature.search.app
+Pokemon Creature Search App uses HTML to display the Pokemon information, CSS to style the page by adding colors and adjusting page dimensions, and JS to get the API Pokemon data and fill in the HTML page with the data.
